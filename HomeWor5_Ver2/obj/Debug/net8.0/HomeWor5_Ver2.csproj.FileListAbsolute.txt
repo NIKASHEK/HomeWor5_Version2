@@ -1,0 +1,14 @@
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\bin\Debug\net8.0\HomeWor5_Ver2.exe
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\bin\Debug\net8.0\HomeWor5_Ver2.deps.json
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\bin\Debug\net8.0\HomeWor5_Ver2.runtimeconfig.json
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\bin\Debug\net8.0\HomeWor5_Ver2.dll
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\bin\Debug\net8.0\HomeWor5_Ver2.pdb
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.AssemblyInfoInputs.cache
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.AssemblyInfo.cs
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.csproj.CoreCompileInputs.cache
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.dll
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\refint\HomeWor5_Ver2.dll
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.pdb
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.genruntimeconfig.cache
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\ref\HomeWor5_Ver2.dll
