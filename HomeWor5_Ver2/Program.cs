@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-                // Nika Shekiladze
-                // #1
+            // Nika Shekiladze
+            // #1
             //var x = Convert.ToInt32(Console.ReadLine());
             //if (x % 5 == 0)
             //    Console.WriteLine("YES");
             //else
             //    Console.WriteLine("NO");
 
-                // #2
+            // #2
             //var x = Convert.ToDouble(Console.ReadLine());
             //var y = Convert.ToDouble(Console.ReadLine());
             //Console.WriteLine();
@@ -29,7 +29,7 @@
             //else 
             //    Console.WriteLine(x / y);
 
-                // #3
+            // #3
             //var x = Console.ReadLine();
             //var y = Console.ReadLine();
             //var someThing = x;
@@ -39,17 +39,21 @@
             //Console.WriteLine(x);
             //Console.WriteLine(y);
 
-                // #4
+            // #4
+            //var x = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine();
+            //for (int i = 1; i <= 9; i++)
+            //{
+            //    Console.WriteLine(x * i);
+            //}
+
+            // #5
             var x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
-            for (int i = 1; i <= 9; i++)
+            for (int i = 2; i < x; i++)
             {
-                Console.WriteLine(x * i);
+                if(i % 2 == 0)
+                    Console.WriteLine(i * i);
             }
-
-
-
-
         }
     }
 }

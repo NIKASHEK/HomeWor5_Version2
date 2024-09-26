@@ -12,3 +12,4 @@ C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\refint\
 C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.pdb
 C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.genruntimeconfig.cache
 C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\ref\HomeWor5_Ver2.dll
+C:\Users\nshek\source\repos\HomeWor5_Ver2\HomeWor5_Ver2\obj\Debug\net8.0\HomeWor5_Ver2.sourcelink.json
